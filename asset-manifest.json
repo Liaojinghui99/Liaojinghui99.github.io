@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a51f8e49.chunk.css",
+    "main.js": "/static/js/main.569119c6.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.e89a29cd.js",
+    "static/js/2.77e29939.chunk.js": "/static/js/2.77e29939.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.7aa4abf0321f9f408ee4b444dd65a481.js": "/precache-manifest.7aa4abf0321f9f408ee4b444dd65a481.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.77e29939.chunk.js.LICENSE.txt": "/static/js/2.77e29939.chunk.js.LICENSE.txt",
+    "static/media/galaxy.png": "/static/media/galaxy.00498cbb.png",
+    "static/media/github.ddc25012.svg": "/static/media/github.ddc25012.svg",
+    "static/media/logo-header.png": "/static/media/logo-header.204c38fd.png",
+    "static/media/medium.02a226dd.svg": "/static/media/medium.02a226dd.svg",
+    "static/media/plus.705a940e.svg": "/static/media/plus.705a940e.svg",
+    "static/media/slash.0fcc8ec4.svg": "/static/media/slash.0fcc8ec4.svg",
+    "static/media/swap.be73024e.svg": "/static/media/swap.be73024e.svg",
+    "static/media/telegram.b4971d60.svg": "/static/media/telegram.b4971d60.svg",
+    "static/media/twitter.76c75acc.svg": "/static/media/twitter.76c75acc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e89a29cd.js",
+    "static/js/2.77e29939.chunk.js",
+    "static/css/main.a51f8e49.chunk.css",
+    "static/js/main.569119c6.chunk.js"
+  ]
+}
